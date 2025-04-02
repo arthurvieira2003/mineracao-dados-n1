@@ -1,0 +1,1001 @@
+pedido_id,cliente_id,data_pedido,valor_total,metodo_pagamento,status,n_itens
+1,166,2023-11-18,2622.95,Cartão de Crédito,Entregue,3
+2,181,2023-09-17,1747.32,Cartão de Crédito,Entregue,1
+3,47,2023-11-11,5818.0,Boleto,Entregue,5
+4,165,2023-11-06,1123.39,Boleto,Entregue,4
+5,21,2023-05-07,4493.76,Transferência,Entregue,4
+6,174,2023-12-14,4537.61,Boleto,Entregue,5
+7,171,2023-02-11,4665.39,Pix,Entregue,5
+8,66,2023-12-10,4746.96,Pix,Entregue,5
+9,249,2023-04-09,3551.91,Cartão de Crédito,Entregue,2
+10,173,2023-11-13,2954.4,Boleto,Entregue,2
+11,225,2023-01-23,4998.46,Pix,Entregue,4
+12,241,2023-04-10,2247.96,Boleto,Entregue,3
+13,103,2023-11-06,1525.39,Cartão de Crédito,Entregue,2
+14,265,2023-03-05,2711.73,Boleto,Entregue,3
+15,231,2023-06-28,1773.12,Transferência,Entregue,1
+16,42,2023-07-11,1803.28,Cartão de Crédito,Entregue,2
+17,147,2023-08-30,3353.77,Pix,Entregue,2
+18,111,2023-03-18,5163.02,Transferência,Entregue,5
+19,33,2023-02-26,3101.37,Pix,Entregue,4
+20,124,2023-10-20,4190.34,Cartão de Crédito,Entregue,4
+21,199,2023-07-11,4480.28,Cartão de Crédito,Entregue,3
+22,298,2023-06-20,3629.45,Transferência,Entregue,2
+23,246,2023-11-20,801.51,Boleto,Entregue,2
+24,22,2023-06-11,1743.08,Pix,Entregue,3
+25,183,2023-01-25,3883.48,Pix,Entregue,3
+26,96,2023-09-12,2860.38,Pix,Entregue,4
+27,165,2023-02-22,1140.54,Transferência,Entregue,1
+28,86,2023-12-20,5341.6,Cartão de Crédito,Entregue,4
+29,208,2023-07-06,6009.83,Pix,Entregue,5
+30,186,2023-07-16,6416.02,Pix,Entregue,5
+31,204,2023-06-10,1830.5,Cartão de Crédito,Entregue,3
+32,135,2023-05-14,4630.59,Boleto,Entregue,4
+33,228,2023-02-14,3282.2,Boleto,Entregue,3
+34,186,2023-09-18,1960.75,Pix,Entregue,2
+35,284,2023-10-21,2023.72,Transferência,Entregue,3
+36,270,2023-07-30,3112.45,Pix,Entregue,4
+37,66,2023-10-10,3403.22,Pix,Entregue,5
+38,116,2023-06-27,4852.43,Cartão de Crédito,Entregue,5
+39,258,2023-11-25,3610.29,Cartão de Crédito,Entregue,2
+40,15,2023-02-11,806.2,Cartão de Crédito,Entregue,1
+41,255,2023-11-18,4609.28,Transferência,Entregue,5
+42,213,2023-09-05,5906.96,Transferência,Entregue,4
+43,67,2023-07-09,3530.91,Cartão de Crédito,Entregue,5
+44,26,2023-05-29,2464.98,Transferência,Entregue,4
+45,256,2023-06-07,3496.05,Cartão de Crédito,Entregue,4
+46,145,2023-09-11,4850.57,Pix,Entregue,5
+47,207,2023-07-07,1832.21,Cartão de Crédito,Entregue,1
+48,198,2023-09-16,3434.93,Pix,Entregue,4
+49,74,2023-04-12,5773.2,Transferência,Entregue,5
+50,77,2023-11-07,4097.0,Transferência,Entregue,5
+51,289,2023-06-03,4182.85,Cartão de Crédito,Entregue,4
+52,243,2023-05-16,3489.7,Cartão de Crédito,Entregue,5
+53,294,2023-12-25,1579.9,Transferência,Entregue,1
+54,105,2023-07-30,5121.14,Transferência,Entregue,5
+55,161,2023-03-30,5862.42,Boleto,Entregue,4
+56,143,2023-10-13,3456.24,Pix,Entregue,3
+57,246,2023-06-28,6046.69,Pix,Entregue,5
+58,22,2023-05-28,1693.7,Boleto,Entregue,1
+59,276,2023-05-19,6006.72,Cartão de Crédito,Entregue,5
+60,212,2023-06-19,4431.06,Transferência,Entregue,4
+61,103,2023-05-28,2435.88,Cartão de Crédito,Entregue,3
+62,90,2023-08-02,1970.9,Cartão de Crédito,Entregue,2
+63,5,2023-06-02,4183.1,Transferência,Entregue,5
+64,140,2023-04-09,1744.26,Boleto,Entregue,1
+65,8,2023-06-22,1274.06,Pix,Entregue,3
+66,45,2023-07-25,478.32,Cartão de Crédito,Entregue,1
+67,134,2023-07-16,2542.27,Cartão de Crédito,Entregue,2
+68,134,2023-12-01,2495.1,Pix,Entregue,3
+69,61,2023-11-24,3011.9,Pix,Entregue,3
+70,213,2023-12-26,3630.7,Cartão de Crédito,Entregue,5
+71,289,2023-02-27,1354.46,Boleto,Entregue,1
+72,168,2023-09-24,3401.52,Boleto,Entregue,4
+73,263,2023-08-01,3089.87,Pix,Entregue,4
+74,2,2023-04-22,5218.02,Transferência,Entregue,5
+75,17,2023-05-27,2482.19,Transferência,Entregue,4
+76,42,2023-12-16,2623.53,Cartão de Crédito,Entregue,5
+77,12,2023-06-02,3645.45,Pix,Entregue,4
+78,97,2023-02-27,84.78,Cartão de Crédito,Entregue,1
+79,229,2023-11-03,548.77,Boleto,Entregue,1
+80,29,2023-03-13,3183.65,Boleto,Entregue,5
+81,212,2023-06-03,731.04,Pix,Entregue,3
+82,196,2023-09-26,4348.05,Boleto,Entregue,3
+83,116,2023-06-03,2363.13,Boleto,Entregue,2
+84,199,2023-05-05,3776.99,Cartão de Crédito,Entregue,3
+85,138,2023-07-13,4962.16,Pix,Entregue,5
+86,8,2023-04-19,2250.77,Pix,Entregue,2
+87,145,2023-07-14,6688.57,Transferência,Entregue,4
+88,164,2023-04-15,3961.24,Pix,Entregue,3
+89,284,2023-10-27,6553.31,Transferência,Entregue,5
+90,282,2023-12-02,3701.81,Transferência,Entregue,3
+91,95,2023-10-05,1225.81,Cartão de Crédito,Entregue,1
+92,4,2023-07-31,2526.85,Pix,Entregue,2
+93,31,2023-11-13,4587.55,Pix,Entregue,5
+94,275,2023-05-27,138.76,Cartão de Crédito,Entregue,1
+95,50,2023-09-26,1201.44,Transferência,Entregue,2
+96,41,2023-07-11,2808.5,Cartão de Crédito,Entregue,4
+97,48,2023-07-27,4481.13,Transferência,Entregue,4
+98,223,2023-11-27,3693.0,Transferência,Entregue,3
+99,139,2023-01-24,703.35,Cartão de Crédito,Entregue,1
+100,107,2023-10-28,1804.15,Transferência,Entregue,2
+101,277,2023-06-19,4522.86,Pix,Entregue,4
+102,204,2023-06-17,1644.69,Transferência,Entregue,1
+103,222,2023-04-06,4868.71,Boleto,Entregue,5
+104,200,2023-06-12,2528.33,Cartão de Crédito,Entregue,3
+105,68,2023-02-14,3307.58,Cartão de Crédito,Entregue,2
+106,167,2023-07-17,784.44,Boleto,Entregue,1
+107,293,2023-09-24,2106.95,Boleto,Entregue,2
+108,33,2023-03-27,4164.98,Transferência,Entregue,4
+109,101,2023-08-23,567.47,Transferência,Entregue,1
+110,169,2023-08-14,2961.13,Transferência,Entregue,3
+111,164,2023-05-30,3566.6,Boleto,Entregue,4
+112,280,2023-04-03,3886.72,Transferência,Entregue,5
+113,72,2023-11-21,3730.29,Transferência,Entregue,3
+114,246,2023-10-26,2735.44,Cartão de Crédito,Entregue,4
+115,56,2023-05-08,3490.26,Transferência,Entregue,3
+116,55,2023-01-06,1416.72,Transferência,Entregue,1
+117,257,2023-03-19,2460.79,Cartão de Crédito,Entregue,3
+118,73,2023-06-28,3351.49,Transferência,Entregue,3
+119,232,2023-06-13,1061.38,Cartão de Crédito,Entregue,1
+120,85,2023-05-05,3996.03,Boleto,Entregue,5
+121,96,2023-11-24,1875.91,Boleto,Entregue,4
+122,106,2023-05-23,806.2,Transferência,Entregue,1
+123,59,2023-05-15,3858.54,Boleto,Entregue,4
+124,153,2023-11-11,4501.48,Boleto,Entregue,5
+125,262,2023-07-18,4204.74,Boleto,Entregue,4
+126,285,2023-03-27,5360.43,Transferência,Entregue,4
+127,70,2023-04-10,4730.1,Transferência,Entregue,4
+128,86,2023-02-12,7328.74,Transferência,Entregue,5
+129,282,2023-09-19,1074.51,Cartão de Crédito,Entregue,1
+130,226,2023-10-07,1202.07,Transferência,Entregue,2
+131,135,2023-06-28,155.85,Pix,Entregue,1
+132,220,2023-03-26,4191.1,Pix,Entregue,5
+133,150,2023-05-29,4909.15,Boleto,Entregue,5
+134,128,2023-03-16,1670.62,Transferência,Entregue,3
+135,39,2023-11-21,1305.49,Transferência,Entregue,1
+136,250,2023-06-17,4133.9,Transferência,Entregue,5
+137,138,2023-06-15,3965.05,Cartão de Crédito,Entregue,3
+138,24,2023-02-20,3162.73,Boleto,Entregue,4
+139,68,2023-11-29,4100.78,Boleto,Entregue,3
+140,27,2023-07-22,2391.51,Boleto,Entregue,3
+141,116,2023-09-23,3160.15,Transferência,Entregue,4
+142,46,2023-02-22,1498.6,Boleto,Entregue,1
+143,36,2023-09-29,3175.52,Transferência,Entregue,5
+144,112,2023-02-14,1668.6,Pix,Entregue,1
+145,72,2023-05-07,1795.62,Cartão de Crédito,Entregue,3
+146,155,2023-04-16,4967.78,Transferência,Entregue,5
+147,37,2023-09-28,1607.83,Transferência,Entregue,1
+148,188,2023-10-07,2778.91,Cartão de Crédito,Entregue,2
+149,204,2023-09-17,2128.6,Boleto,Entregue,3
+150,143,2023-02-12,3241.54,Cartão de Crédito,Entregue,3
+151,159,2023-12-24,2999.37,Cartão de Crédito,Entregue,4
+152,159,2023-12-08,1250.24,Transferência,Entregue,2
+153,178,2023-09-25,5240.44,Pix,Entregue,5
+154,220,2023-05-20,3925.96,Boleto,Entregue,5
+155,189,2023-03-22,3358.75,Boleto,Entregue,3
+156,24,2023-08-30,2640.21,Pix,Entregue,3
+157,139,2023-02-09,3418.21,Transferência,Entregue,5
+158,145,2023-06-09,1573.84,Boleto,Entregue,3
+159,238,2023-07-08,3366.16,Cartão de Crédito,Entregue,5
+160,172,2023-01-01,5114.12,Boleto,Entregue,4
+161,144,2023-02-17,642.74,Transferência,Entregue,1
+162,44,2023-10-25,720.12,Transferência,Entregue,1
+163,67,2023-05-02,3665.12,Boleto,Entregue,3
+164,39,2023-04-14,1656.38,Pix,Entregue,2
+165,209,2023-03-03,6070.92,Pix,Entregue,5
+166,21,2023-04-21,1616.04,Pix,Entregue,3
+167,134,2023-03-31,1305.49,Cartão de Crédito,Entregue,1
+168,7,2023-02-01,394.8,Cartão de Crédito,Entregue,2
+169,299,2023-10-28,2889.34,Pix,Entregue,3
+170,63,2023-01-22,4322.84,Transferência,Entregue,4
+171,89,2023-07-01,2476.15,Boleto,Entregue,2
+172,152,2023-09-13,3505.49,Boleto,Entregue,4
+173,279,2023-01-10,4312.83,Cartão de Crédito,Entregue,4
+174,164,2023-11-02,2157.23,Boleto,Entregue,2
+175,82,2023-02-21,1303.29,Transferência,Entregue,2
+176,182,2023-03-30,1671.57,Pix,Entregue,2
+177,291,2023-10-16,2196.71,Cartão de Crédito,Entregue,2
+178,29,2023-04-30,5191.84,Boleto,Entregue,5
+179,166,2023-01-31,598.43,Pix,Entregue,1
+180,38,2023-07-11,4583.31,Transferência,Entregue,4
+181,163,2023-03-31,5419.82,Transferência,Entregue,5
+182,291,2023-01-17,1626.27,Pix,Entregue,2
+183,40,2023-05-02,1918.48,Boleto,Entregue,3
+184,128,2023-12-21,489.67,Transferência,Entregue,1
+185,225,2023-08-03,2697.63,Transferência,Entregue,2
+186,296,2023-11-30,238.08,Pix,Entregue,2
+187,54,2023-02-07,1868.51,Pix,Entregue,3
+188,248,2023-12-27,1332.28,Boleto,Entregue,1
+189,28,2023-02-21,4582.77,Boleto,Entregue,3
+190,50,2023-01-26,5155.94,Transferência,Entregue,4
+191,103,2023-02-19,1010.93,Cartão de Crédito,Entregue,1
+192,158,2023-07-23,3083.82,Pix,Entregue,4
+193,96,2023-08-17,1111.5,Cartão de Crédito,Entregue,1
+194,78,2023-12-23,878.38,Boleto,Entregue,1
+195,284,2023-02-01,3460.49,Transferência,Entregue,4
+196,18,2023-09-15,4716.42,Boleto,Entregue,5
+197,22,2023-08-05,1577.85,Pix,Entregue,1
+198,35,2023-02-14,2454.71,Transferência,Entregue,4
+199,58,2023-08-01,1268.11,Cartão de Crédito,Entregue,2
+200,147,2023-10-02,3414.24,Cartão de Crédito,Entregue,3
+201,89,2023-05-22,5224.99,Pix,Entregue,4
+202,11,2023-06-22,3294.33,Boleto,Entregue,3
+203,154,2023-08-15,2708.84,Transferência,Entregue,3
+204,265,2023-07-11,1320.34,Transferência,Entregue,1
+205,70,2023-09-26,4293.31,Boleto,Entregue,5
+206,141,2023-07-08,3479.76,Boleto,Entregue,4
+207,243,2023-10-28,4729.2,Boleto,Entregue,5
+208,114,2023-11-28,1577.9,Cartão de Crédito,Entregue,2
+209,243,2023-03-09,827.12,Pix,Entregue,2
+210,217,2023-07-12,3025.22,Transferência,Entregue,3
+211,300,2023-02-22,1208.81,Pix,Entregue,1
+212,153,2023-12-17,1020.99,Pix,Entregue,1
+213,142,2023-05-14,2410.36,Transferência,Entregue,3
+214,164,2023-12-15,659.05,Transferência,Entregue,2
+215,19,2023-10-26,7799.08,Boleto,Entregue,5
+216,151,2023-02-19,2412.99,Pix,Entregue,4
+217,115,2023-06-07,4909.03,Cartão de Crédito,Entregue,4
+218,299,2023-10-25,4203.5,Cartão de Crédito,Entregue,5
+219,78,2023-03-12,3967.49,Boleto,Entregue,2
+220,42,2023-09-07,3388.13,Boleto,Entregue,3
+221,251,2023-02-15,2386.17,Cartão de Crédito,Entregue,2
+222,20,2023-10-01,1929.54,Boleto,Entregue,2
+223,116,2023-12-22,2989.39,Pix,Entregue,3
+224,149,2023-08-22,7151.07,Transferência,Entregue,5
+225,10,2023-04-27,1439.22,Cartão de Crédito,Entregue,2
+226,188,2023-12-31,1071.09,Cartão de Crédito,Entregue,1
+227,25,2023-12-05,1085.68,Cartão de Crédito,Entregue,1
+228,281,2023-05-10,3991.0,Boleto,Entregue,4
+229,215,2023-02-23,5474.35,Boleto,Entregue,5
+230,184,2023-12-27,3477.96,Pix,Entregue,4
+231,121,2023-01-02,368.75,Cartão de Crédito,Entregue,1
+232,52,2023-05-12,1379.55,Cartão de Crédito,Entregue,2
+233,149,2023-07-04,3772.06,Boleto,Entregue,3
+234,169,2023-07-03,4982.98,Pix,Entregue,4
+235,198,2023-12-20,2039.71,Cartão de Crédito,Entregue,4
+236,214,2023-10-30,2653.65,Boleto,Entregue,4
+237,248,2023-09-07,789.52,Cartão de Crédito,Entregue,1
+238,269,2023-10-23,6346.26,Transferência,Entregue,5
+239,77,2023-10-13,3822.99,Boleto,Entregue,5
+240,170,2023-05-23,720.12,Cartão de Crédito,Entregue,1
+241,236,2023-08-16,4867.96,Cartão de Crédito,Entregue,5
+242,47,2023-11-06,3644.27,Transferência,Entregue,5
+243,170,2023-10-14,5501.52,Pix,Entregue,5
+244,281,2023-09-25,4281.79,Transferência,Entregue,3
+245,55,2023-05-11,4240.08,Transferência,Entregue,5
+246,24,2023-11-21,3371.21,Transferência,Entregue,5
+247,300,2023-09-05,3952.0,Transferência,Entregue,5
+248,128,2023-05-21,3606.98,Pix,Entregue,4
+249,281,2023-06-10,5793.63,Boleto,Entregue,5
+250,258,2023-10-05,3365.15,Pix,Entregue,3
+251,217,2023-01-07,4374.14,Pix,Entregue,5
+252,129,2023-03-16,1014.54,Cartão de Crédito,Entregue,1
+253,288,2023-04-25,5751.98,Pix,Entregue,5
+254,283,2023-01-28,1110.66,Pix,Entregue,1
+255,280,2023-11-05,1479.66,Boleto,Entregue,2
+256,89,2023-09-21,1071.09,Boleto,Entregue,1
+257,300,2023-05-11,1744.26,Cartão de Crédito,Entregue,1
+258,155,2023-09-09,6153.13,Boleto,Entregue,5
+259,213,2023-10-06,5194.98,Boleto,Entregue,5
+260,272,2023-09-01,5851.38,Pix,Entregue,5
+261,196,2023-02-28,4423.11,Transferência,Entregue,4
+262,250,2023-01-23,2386.33,Cartão de Crédito,Entregue,3
+263,34,2023-04-18,1202.07,Boleto,Entregue,2
+264,13,2023-08-24,3505.56,Cartão de Crédito,Entregue,3
+265,295,2023-04-27,2240.16,Transferência,Entregue,3
+266,61,2023-10-01,234.04,Pix,Entregue,1
+267,258,2023-02-24,3060.15,Cartão de Crédito,Entregue,3
+268,243,2023-03-22,3796.89,Pix,Entregue,5
+269,6,2023-10-11,4667.46,Pix,Entregue,5
+270,108,2023-06-26,2109.86,Boleto,Entregue,2
+271,59,2023-04-03,4971.67,Transferência,Entregue,5
+272,170,2023-07-02,2550.63,Transferência,Entregue,2
+273,231,2023-06-18,5124.34,Cartão de Crédito,Entregue,5
+274,161,2023-05-07,3575.68,Transferência,Entregue,2
+275,237,2023-08-17,3418.12,Pix,Entregue,3
+276,72,2023-10-03,2681.12,Cartão de Crédito,Entregue,2
+277,298,2023-10-24,5175.67,Pix,Entregue,4
+278,201,2023-04-25,3717.08,Boleto,Entregue,5
+279,85,2023-09-21,3137.8,Pix,Entregue,2
+280,21,2023-04-23,3155.84,Pix,Entregue,4
+281,199,2023-08-29,4179.64,Boleto,Entregue,4
+282,193,2023-12-01,4191.68,Pix,Entregue,4
+283,250,2023-09-04,3343.08,Boleto,Entregue,5
+284,77,2023-04-06,2428.54,Cartão de Crédito,Entregue,2
+285,247,2023-12-12,3882.62,Boleto,Entregue,4
+286,69,2023-11-19,5139.1,Cartão de Crédito,Entregue,5
+287,146,2023-02-13,3353.77,Boleto,Entregue,2
+288,299,2023-04-04,5861.2,Boleto,Entregue,5
+289,56,2023-01-09,2669.72,Cartão de Crédito,Entregue,2
+290,91,2023-09-01,5378.62,Cartão de Crédito,Entregue,5
+291,221,2023-09-25,5060.34,Pix,Entregue,4
+292,295,2023-02-20,4535.45,Transferência,Entregue,4
+293,132,2023-04-07,179.54,Boleto,Entregue,1
+294,162,2023-07-29,4099.97,Transferência,Entregue,3
+295,290,2023-07-07,4872.89,Transferência,Entregue,5
+296,130,2023-06-07,5008.21,Pix,Entregue,5
+297,282,2023-11-11,188.66,Transferência,Entregue,1
+298,223,2023-02-15,1111.5,Transferência,Entregue,1
+299,206,2023-11-11,5263.66,Pix,Entregue,5
+300,100,2023-01-18,4444.15,Cartão de Crédito,Entregue,5
+301,142,2023-07-24,2429.54,Cartão de Crédito,Entregue,3
+302,282,2023-05-26,5109.19,Cartão de Crédito,Entregue,5
+303,134,2023-03-31,3638.83,Pix,Entregue,4
+304,276,2023-10-22,2358.45,Transferência,Entregue,3
+305,15,2023-09-04,1416.72,Boleto,Entregue,1
+306,162,2023-07-31,596.32,Transferência,Entregue,3
+307,176,2023-02-08,6174.95,Boleto,Entregue,5
+308,256,2023-04-13,1847.82,Pix,Entregue,2
+309,80,2023-02-24,1021.8,Cartão de Crédito,Entregue,1
+310,247,2023-07-10,7054.4,Boleto,Entregue,5
+311,28,2023-09-27,3716.21,Transferência,Entregue,4
+312,62,2023-12-24,4512.65,Pix,Entregue,5
+313,96,2023-10-08,3267.61,Transferência,Entregue,3
+314,108,2023-08-03,3799.49,Boleto,Entregue,3
+315,52,2023-05-19,1571.84,Transferência,Entregue,2
+316,5,2023-04-01,2761.87,Pix,Entregue,4
+317,288,2023-10-18,234.53,Transferência,Entregue,1
+318,50,2023-08-19,3134.48,Cartão de Crédito,Entregue,3
+319,180,2023-12-14,3027.03,Transferência,Entregue,5
+320,41,2023-07-15,6335.66,Cartão de Crédito,Entregue,5
+321,83,2023-06-25,1848.0,Transferência,Entregue,2
+322,139,2023-08-16,2788.54,Boleto,Entregue,3
+323,129,2023-12-25,1474.38,Cartão de Crédito,Entregue,1
+324,14,2023-07-23,5057.34,Boleto,Entregue,5
+325,68,2023-09-27,3269.6,Transferência,Entregue,2
+326,240,2023-10-04,2592.48,Transferência,Entregue,3
+327,269,2023-11-24,5384.35,Pix,Entregue,5
+328,80,2023-06-05,173.42,Cartão de Crédito,Entregue,1
+329,252,2023-09-02,2263.89,Pix,Entregue,3
+330,97,2023-07-30,2277.0,Boleto,Entregue,5
+331,265,2023-11-10,4051.11,Boleto,Entregue,3
+332,149,2023-02-26,4117.67,Boleto,Entregue,4
+333,53,2023-05-25,859.43,Pix,Entregue,3
+334,216,2023-06-09,6077.59,Cartão de Crédito,Entregue,4
+335,279,2023-08-29,1575.78,Boleto,Entregue,2
+336,198,2023-08-15,1953.8,Transferência,Entregue,2
+337,200,2023-12-15,2683.67,Pix,Entregue,3
+338,102,2023-07-04,951.59,Cartão de Crédito,Entregue,1
+339,86,2023-05-22,2671.48,Pix,Entregue,5
+340,46,2023-05-08,1145.05,Cartão de Crédito,Entregue,2
+341,31,2023-07-02,1610.02,Pix,Entregue,2
+342,225,2023-04-09,1071.09,Transferência,Entregue,1
+343,225,2023-10-14,2755.23,Transferência,Entregue,3
+344,141,2023-11-03,5416.84,Cartão de Crédito,Entregue,5
+345,260,2023-07-14,2037.08,Transferência,Entregue,2
+346,98,2023-09-26,5066.07,Cartão de Crédito,Entregue,4
+347,23,2023-03-08,2705.24,Transferência,Entregue,2
+348,251,2023-09-27,7143.71,Transferência,Entregue,5
+349,32,2023-07-04,6264.52,Boleto,Entregue,5
+350,266,2023-02-19,642.74,Boleto,Entregue,1
+351,292,2023-11-17,2012.68,Pix,Entregue,2
+352,235,2023-12-26,3870.07,Transferência,Entregue,4
+353,181,2023-06-11,5363.22,Transferência,Entregue,5
+354,282,2023-05-11,2259.25,Cartão de Crédito,Entregue,3
+355,266,2023-03-11,2517.79,Pix,Entregue,3
+356,284,2023-09-19,7322.01,Boleto,Entregue,5
+357,120,2023-05-12,3847.17,Pix,Entregue,3
+358,248,2023-03-30,5268.8,Pix,Entregue,4
+359,223,2023-08-02,590.67,Transferência,Entregue,1
+360,28,2023-06-06,2801.17,Transferência,Entregue,5
+361,229,2023-11-01,5054.16,Cartão de Crédito,Entregue,5
+362,281,2023-07-24,2849.35,Boleto,Entregue,3
+363,250,2023-07-22,2099.75,Cartão de Crédito,Entregue,5
+364,58,2023-12-10,3550.22,Pix,Entregue,4
+365,87,2023-06-29,3740.69,Cartão de Crédito,Entregue,5
+366,28,2023-05-05,5216.3,Boleto,Entregue,5
+367,276,2023-04-19,2137.81,Cartão de Crédito,Entregue,2
+368,193,2023-10-26,6271.09,Cartão de Crédito,Entregue,5
+369,199,2023-12-05,3789.32,Cartão de Crédito,Entregue,3
+370,162,2023-09-06,2866.24,Pix,Entregue,5
+371,251,2023-07-21,2466.85,Boleto,Entregue,2
+372,257,2023-05-22,1895.18,Boleto,Entregue,1
+373,78,2023-06-24,5485.14,Boleto,Entregue,4
+374,219,2023-06-09,5318.88,Boleto,Entregue,5
+375,71,2023-06-08,4277.49,Cartão de Crédito,Entregue,5
+376,95,2023-06-12,1803.28,Pix,Entregue,2
+377,78,2023-04-07,256.72,Pix,Entregue,1
+378,291,2023-11-10,1097.19,Boleto,Entregue,2
+379,258,2023-11-06,3020.79,Transferência,Entregue,4
+380,8,2023-05-19,3411.36,Pix,Entregue,4
+381,235,2023-05-07,5222.58,Transferência,Entregue,4
+382,22,2023-05-06,1794.87,Pix,Entregue,5
+383,147,2023-08-25,1231.26,Transferência,Entregue,2
+384,232,2023-02-16,1831.53,Boleto,Entregue,5
+385,233,2023-10-30,1305.46,Boleto,Entregue,2
+386,64,2023-02-16,49.42,Boleto,Entregue,1
+387,194,2023-10-09,3378.42,Cartão de Crédito,Entregue,4
+388,215,2023-06-07,4020.14,Pix,Entregue,3
+389,7,2023-08-23,2480.46,Transferência,Entregue,4
+390,210,2023-08-15,179.54,Boleto,Entregue,1
+391,26,2023-04-05,1835.2,Pix,Entregue,2
+392,170,2023-02-14,1408.34,Boleto,Entregue,1
+393,234,2023-10-24,3738.2,Transferência,Entregue,3
+394,282,2023-02-03,3017.17,Boleto,Entregue,3
+395,108,2023-11-10,1408.34,Pix,Entregue,1
+396,219,2023-11-08,3448.73,Transferência,Entregue,3
+397,267,2023-11-20,3665.22,Cartão de Crédito,Entregue,4
+398,107,2023-11-12,3432.04,Pix,Entregue,4
+399,131,2023-02-04,3135.96,Transferência,Entregue,3
+400,292,2023-11-12,139.26,Transferência,Entregue,1
+401,243,2023-01-19,2904.3,Pix,Entregue,2
+402,237,2023-07-31,1949.6,Boleto,Entregue,1
+403,296,2023-12-17,2773.36,Boleto,Entregue,3
+404,293,2023-11-07,4982.31,Transferência,Entregue,4
+405,122,2023-07-10,3266.25,Cartão de Crédito,Entregue,4
+406,228,2023-09-17,1020.99,Pix,Entregue,1
+407,168,2023-03-15,247.47,Transferência,Entregue,1
+408,199,2023-09-25,179.54,Cartão de Crédito,Entregue,1
+409,171,2023-08-28,985.35,Boleto,Entregue,1
+410,165,2023-04-13,3712.74,Cartão de Crédito,Entregue,2
+411,140,2023-03-18,3296.72,Pix,Entregue,2
+412,139,2023-03-14,2232.04,Transferência,Entregue,3
+413,26,2023-03-08,1378.47,Transferência,Entregue,1
+414,201,2023-04-02,6163.45,Boleto,Entregue,5
+415,48,2023-12-24,4704.1,Pix,Entregue,4
+416,187,2023-07-20,2884.8,Pix,Entregue,2
+417,246,2023-08-25,2231.48,Cartão de Crédito,Entregue,2
+418,167,2023-10-12,949.59,Boleto,Entregue,1
+419,125,2023-10-08,2534.21,Transferência,Entregue,2
+420,223,2023-10-18,1649.64,Transferência,Entregue,3
+421,59,2023-10-31,4733.1,Cartão de Crédito,Entregue,5
+422,195,2023-06-17,3912.86,Boleto,Entregue,4
+423,232,2023-09-30,2980.3,Pix,Entregue,3
+424,292,2023-12-14,3640.3,Transferência,Entregue,3
+425,66,2023-05-31,1167.56,Cartão de Crédito,Entregue,1
+426,145,2023-01-16,2082.08,Transferência,Entregue,2
+427,223,2023-10-07,1363.69,Transferência,Entregue,2
+428,79,2023-05-28,714.64,Transferência,Entregue,2
+429,70,2023-02-13,2138.13,Transferência,Entregue,2
+430,283,2023-08-19,3331.32,Boleto,Entregue,4
+431,257,2023-05-18,4074.06,Transferência,Entregue,4
+432,41,2023-03-14,4849.14,Cartão de Crédito,Entregue,5
+433,277,2023-10-24,4132.61,Pix,Entregue,3
+434,216,2023-06-30,3721.14,Pix,Entregue,3
+435,32,2023-11-19,3824.98,Cartão de Crédito,Entregue,4
+436,147,2023-09-06,556.41,Pix,Entregue,1
+437,68,2023-11-12,4322.54,Boleto,Entregue,3
+438,229,2023-07-09,2738.89,Pix,Entregue,2
+439,44,2023-03-16,7416.33,Boleto,Entregue,5
+440,296,2023-06-26,1111.5,Pix,Entregue,1
+441,244,2023-09-30,1696.99,Cartão de Crédito,Entregue,2
+442,148,2023-08-18,5495.09,Pix,Entregue,4
+443,172,2023-05-19,3371.68,Boleto,Entregue,3
+444,100,2023-09-24,3182.99,Transferência,Entregue,3
+445,51,2023-09-26,1975.3,Boleto,Entregue,1
+446,18,2023-01-13,5129.51,Boleto,Entregue,5
+447,57,2023-12-23,2125.2,Transferência,Entregue,2
+448,166,2023-05-12,3398.27,Pix,Entregue,2
+449,136,2023-04-02,4367.09,Boleto,Entregue,4
+450,55,2023-08-15,4201.51,Transferência,Entregue,3
+451,77,2023-12-01,1736.37,Transferência,Entregue,1
+452,295,2023-01-02,7041.17,Cartão de Crédito,Entregue,5
+453,291,2023-10-02,3261.53,Cartão de Crédito,Entregue,3
+454,236,2023-05-29,1384.08,Transferência,Entregue,2
+455,55,2023-11-19,1905.77,Boleto,Entregue,3
+456,251,2023-07-19,331.67,Cartão de Crédito,Entregue,1
+457,19,2023-06-23,1804.39,Transferência,Entregue,1
+458,275,2023-03-18,6045.09,Cartão de Crédito,Entregue,5
+459,125,2023-12-26,568.79,Transferência,Entregue,2
+460,88,2023-10-30,1408.34,Boleto,Entregue,1
+461,33,2023-04-14,5597.85,Cartão de Crédito,Entregue,4
+462,89,2023-06-21,820.71,Pix,Entregue,1
+463,284,2023-03-26,3763.52,Transferência,Entregue,4
+464,42,2023-01-04,544.0,Boleto,Entregue,1
+465,106,2023-03-15,2788.54,Boleto,Entregue,3
+466,256,2023-11-10,949.59,Cartão de Crédito,Entregue,1
+467,272,2023-02-18,4954.09,Cartão de Crédito,Entregue,5
+468,77,2023-12-17,3584.22,Pix,Entregue,4
+469,172,2023-11-12,3274.88,Cartão de Crédito,Entregue,4
+470,37,2023-05-01,3090.38,Pix,Entregue,4
+471,117,2023-02-20,1679.04,Cartão de Crédito,Entregue,2
+472,224,2023-03-16,909.01,Pix,Entregue,2
+473,139,2023-04-14,3041.81,Transferência,Entregue,3
+474,215,2023-03-29,3453.91,Boleto,Entregue,3
+475,45,2023-07-30,4740.63,Boleto,Entregue,5
+476,168,2023-08-11,4887.03,Cartão de Crédito,Entregue,5
+477,218,2023-09-29,4616.05,Transferência,Entregue,4
+478,112,2023-03-09,2691.31,Transferência,Entregue,3
+479,293,2023-10-26,365.01,Boleto,Entregue,1
+480,190,2023-11-17,3566.81,Boleto,Entregue,4
+481,42,2023-11-14,3929.8,Cartão de Crédito,Entregue,3
+482,188,2023-07-07,1994.04,Cartão de Crédito,Entregue,2
+483,245,2023-10-25,1280.82,Pix,Entregue,2
+484,28,2023-02-02,2614.66,Pix,Entregue,3
+485,232,2023-11-14,2776.91,Pix,Entregue,3
+486,40,2023-02-25,2495.71,Cartão de Crédito,Entregue,2
+487,151,2023-08-02,3930.18,Cartão de Crédito,Entregue,5
+488,119,2023-09-24,4492.05,Transferência,Entregue,3
+489,235,2023-06-05,4579.37,Boleto,Entregue,5
+490,181,2023-05-26,3305.58,Boleto,Entregue,4
+491,83,2023-05-02,920.3,Boleto,Entregue,1
+492,106,2023-10-15,349.4,Boleto,Entregue,1
+493,274,2023-06-04,454.45,Pix,Entregue,1
+494,80,2023-01-03,5487.79,Transferência,Entregue,5
+495,174,2023-12-19,1430.06,Pix,Entregue,1
+496,13,2023-07-25,7156.18,Pix,Entregue,5
+497,101,2023-01-12,201.68,Boleto,Entregue,1
+498,252,2023-06-12,4995.13,Cartão de Crédito,Entregue,5
+499,146,2023-06-26,3791.73,Transferência,Entregue,3
+500,227,2023-05-28,1989.84,Pix,Entregue,2
+501,34,2023-10-30,4184.92,Boleto,Entregue,4
+502,103,2023-04-06,3388.48,Transferência,Entregue,4
+503,115,2023-01-14,1883.31,Transferência,Entregue,1
+504,64,2023-12-01,3160.78,Transferência,Entregue,3
+505,35,2023-11-03,3364.78,Cartão de Crédito,Entregue,3
+506,192,2023-09-20,5451.04,Boleto,Entregue,5
+507,183,2023-03-25,1644.69,Cartão de Crédito,Entregue,1
+508,149,2023-05-30,5349.86,Pix,Entregue,5
+509,139,2023-12-17,5134.16,Pix,Entregue,3
+510,249,2023-07-30,2125.6,Cartão de Crédito,Entregue,3
+511,214,2023-08-24,1298.89,Pix,Entregue,1
+512,72,2023-08-15,6467.88,Boleto,Entregue,5
+513,117,2023-06-07,1731.1,Cartão de Crédito,Entregue,2
+514,10,2023-09-05,4282.44,Cartão de Crédito,Entregue,4
+515,34,2023-06-04,1664.85,Boleto,Entregue,1
+516,180,2023-01-15,598.43,Pix,Entregue,1
+517,83,2023-09-14,5238.69,Boleto,Entregue,5
+518,145,2023-03-29,4535.05,Boleto,Entregue,5
+519,182,2023-07-14,5085.45,Boleto,Entregue,4
+520,254,2023-07-04,2038.24,Transferência,Entregue,3
+521,160,2023-12-18,4296.41,Pix,Entregue,4
+522,92,2023-01-07,3325.33,Cartão de Crédito,Entregue,4
+523,87,2023-02-03,2831.99,Transferência,Entregue,3
+524,143,2023-10-25,7829.84,Cartão de Crédito,Entregue,5
+525,63,2023-05-09,2868.69,Cartão de Crédito,Entregue,4
+526,92,2023-07-15,7207.91,Pix,Entregue,5
+527,255,2023-09-09,4685.3,Transferência,Entregue,5
+528,231,2023-06-11,5185.61,Transferência,Entregue,4
+529,221,2023-03-10,1568.22,Transferência,Entregue,3
+530,244,2023-10-15,2065.65,Pix,Entregue,2
+531,146,2023-06-14,1453.88,Cartão de Crédito,Entregue,1
+532,175,2023-07-14,808.32,Boleto,Entregue,1
+533,127,2023-05-01,2818.92,Cartão de Crédito,Entregue,3
+534,236,2023-12-03,2641.77,Transferência,Entregue,4
+535,293,2023-07-19,3146.63,Pix,Entregue,3
+536,86,2023-11-11,3731.3,Boleto,Entregue,3
+537,148,2023-05-16,1061.38,Cartão de Crédito,Entregue,1
+538,297,2023-02-18,7414.21,Pix,Entregue,5
+539,259,2023-06-03,4492.91,Boleto,Entregue,4
+540,10,2023-11-18,3598.54,Cartão de Crédito,Entregue,5
+541,268,2023-04-13,2352.35,Pix,Entregue,3
+542,33,2023-11-21,1356.49,Boleto,Entregue,2
+543,208,2023-05-03,582.99,Transferência,Entregue,1
+544,249,2023-10-14,4005.11,Boleto,Entregue,4
+545,22,2023-09-06,1345.53,Transferência,Entregue,1
+546,187,2023-12-10,234.53,Cartão de Crédito,Entregue,1
+547,268,2023-12-07,4803.69,Pix,Entregue,5
+548,300,2023-07-19,1168.31,Transferência,Entregue,2
+549,210,2023-05-11,5929.41,Pix,Entregue,5
+550,75,2023-07-05,5775.46,Boleto,Entregue,4
+551,130,2023-10-10,6168.71,Pix,Entregue,4
+552,155,2023-02-16,2535.76,Transferência,Entregue,2
+553,18,2023-05-21,843.66,Transferência,Entregue,1
+554,52,2023-03-24,2910.49,Cartão de Crédito,Entregue,3
+555,95,2023-11-19,3462.62,Cartão de Crédito,Entregue,4
+556,81,2023-05-08,2875.12,Pix,Entregue,5
+557,145,2023-04-12,1773.12,Boleto,Entregue,1
+558,11,2023-01-12,3226.6,Pix,Entregue,5
+559,77,2023-02-15,2099.15,Transferência,Entregue,3
+560,61,2023-04-25,2146.87,Boleto,Entregue,2
+561,111,2023-05-25,414.71,Transferência,Entregue,2
+562,128,2023-07-09,3934.46,Transferência,Entregue,5
+563,217,2023-11-02,3304.85,Transferência,Entregue,3
+564,182,2023-11-07,5181.63,Cartão de Crédito,Entregue,5
+565,298,2023-04-02,2655.63,Transferência,Entregue,3
+566,73,2023-05-14,1498.6,Pix,Entregue,1
+567,221,2023-05-25,2857.57,Boleto,Entregue,3
+568,285,2023-12-03,3168.29,Transferência,Entregue,4
+569,224,2023-03-01,3523.8,Boleto,Entregue,4
+570,64,2023-06-28,1010.93,Pix,Entregue,1
+571,289,2023-12-06,3910.4,Transferência,Entregue,5
+572,49,2023-06-18,1741.81,Cartão de Crédito,Entregue,1
+573,166,2023-03-20,1021.8,Cartão de Crédito,Entregue,1
+574,169,2023-01-23,3298.86,Cartão de Crédito,Entregue,5
+575,281,2023-11-05,5211.84,Boleto,Entregue,4
+576,199,2023-07-26,3765.4,Boleto,Entregue,3
+577,184,2023-12-07,1167.56,Transferência,Entregue,1
+578,138,2023-10-16,4380.9,Transferência,Entregue,5
+579,115,2023-11-28,3133.92,Cartão de Crédito,Entregue,2
+580,245,2023-06-03,1617.79,Cartão de Crédito,Entregue,2
+581,24,2023-09-20,1208.81,Pix,Entregue,1
+582,182,2023-05-11,4250.2,Cartão de Crédito,Entregue,5
+583,214,2023-12-27,1913.03,Boleto,Entregue,3
+584,95,2023-02-10,6918.39,Transferência,Entregue,5
+585,236,2023-12-21,3663.49,Cartão de Crédito,Entregue,4
+586,9,2023-12-23,1928.83,Boleto,Entregue,2
+587,45,2023-06-04,3125.26,Transferência,Entregue,4
+588,249,2023-08-30,49.42,Cartão de Crédito,Entregue,1
+589,171,2023-01-05,1332.28,Pix,Entregue,1
+590,19,2023-09-07,3186.84,Cartão de Crédito,Entregue,4
+591,138,2023-11-28,6125.13,Boleto,Entregue,4
+592,241,2023-06-26,4444.12,Transferência,Entregue,4
+593,214,2023-12-11,3041.51,Boleto,Entregue,3
+594,103,2023-03-22,6702.94,Pix,Entregue,5
+595,134,2023-07-02,278.02,Boleto,Entregue,2
+596,62,2023-10-15,2288.26,Pix,Entregue,2
+597,78,2023-12-20,3909.34,Cartão de Crédito,Entregue,5
+598,86,2023-11-19,1010.93,Transferência,Entregue,1
+599,260,2023-09-13,1883.31,Cartão de Crédito,Entregue,1
+600,104,2023-08-13,3928.29,Transferência,Entregue,4
+601,185,2023-11-19,1994.33,Transferência,Entregue,2
+602,235,2023-09-22,2722.86,Boleto,Entregue,3
+603,223,2023-02-01,4471.09,Pix,Entregue,4
+604,161,2023-06-26,703.35,Boleto,Entregue,1
+605,279,2023-11-16,4757.41,Boleto,Entregue,5
+606,267,2023-10-04,3331.76,Boleto,Entregue,3
+607,12,2023-01-15,4039.47,Pix,Entregue,5
+608,64,2023-01-25,1975.3,Boleto,Entregue,1
+609,180,2023-06-03,3814.2,Boleto,Entregue,3
+610,185,2023-08-21,598.43,Cartão de Crédito,Entregue,1
+611,32,2023-08-06,2406.93,Transferência,Entregue,2
+612,287,2023-09-23,1780.86,Boleto,Entregue,4
+613,74,2023-09-16,1834.51,Transferência,Entregue,2
+614,17,2023-03-22,5552.6,Pix,Entregue,5
+615,157,2023-07-11,3339.96,Cartão de Crédito,Entregue,3
+616,157,2023-05-26,1173.59,Cartão de Crédito,Entregue,2
+617,214,2023-09-04,5289.03,Transferência,Entregue,5
+618,231,2023-12-08,4084.22,Cartão de Crédito,Entregue,4
+619,227,2023-05-23,1200.33,Pix,Entregue,1
+620,288,2023-11-27,109.93,Cartão de Crédito,Entregue,1
+621,292,2023-09-25,1363.19,Boleto,Entregue,2
+622,10,2023-05-21,2275.75,Pix,Entregue,2
+623,206,2023-10-29,843.66,Cartão de Crédito,Entregue,1
+624,271,2023-06-12,5362.98,Pix,Entregue,4
+625,46,2023-03-20,2952.92,Pix,Entregue,3
+626,200,2023-02-20,2812.27,Cartão de Crédito,Entregue,3
+627,104,2023-05-03,6672.43,Transferência,Entregue,5
+628,34,2023-09-05,1991.94,Pix,Entregue,1
+629,284,2023-10-28,77.16,Transferência,Entregue,1
+630,43,2023-11-22,4873.25,Transferência,Entregue,5
+631,22,2023-01-01,2510.41,Transferência,Entregue,4
+632,180,2023-11-20,1456.85,Cartão de Crédito,Entregue,2
+633,154,2023-02-15,3682.74,Pix,Entregue,4
+634,134,2023-12-29,4769.88,Cartão de Crédito,Entregue,4
+635,69,2023-11-27,1224.43,Transferência,Entregue,1
+636,202,2023-10-03,1569.62,Transferência,Entregue,1
+637,64,2023-06-30,2712.99,Transferência,Entregue,4
+638,5,2023-04-24,703.35,Pix,Entregue,1
+639,114,2023-04-30,5955.66,Transferência,Entregue,4
+640,57,2023-05-23,3960.83,Cartão de Crédito,Entregue,5
+641,66,2023-05-13,6088.9,Cartão de Crédito,Entregue,5
+642,219,2023-11-25,600.87,Transferência,Entregue,1
+643,254,2023-07-05,4448.49,Boleto,Entregue,5
+644,172,2023-02-11,2997.9,Cartão de Crédito,Entregue,5
+645,15,2023-09-03,2122.0,Cartão de Crédito,Entregue,4
+646,171,2023-09-24,1556.29,Cartão de Crédito,Entregue,2
+647,18,2023-07-13,1142.67,Transferência,Entregue,3
+648,34,2023-02-22,109.93,Cartão de Crédito,Entregue,1
+649,211,2023-04-30,3851.32,Cartão de Crédito,Entregue,5
+650,233,2023-09-22,2858.81,Boleto,Entregue,3
+651,261,2023-05-12,1776.32,Boleto,Entregue,3
+652,160,2023-10-27,5138.72,Pix,Entregue,4
+653,150,2023-07-08,247.47,Cartão de Crédito,Entregue,1
+654,217,2023-06-26,2773.63,Transferência,Entregue,2
+655,170,2023-10-24,3558.81,Transferência,Entregue,5
+656,113,2023-01-02,1517.59,Transferência,Entregue,2
+657,106,2023-07-24,1787.37,Cartão de Crédito,Entregue,2
+658,73,2023-05-29,3994.11,Pix,Entregue,4
+659,90,2023-06-23,3428.03,Transferência,Entregue,5
+660,57,2023-06-23,2071.51,Boleto,Entregue,2
+661,270,2023-11-16,2733.35,Pix,Entregue,4
+662,163,2023-11-03,4003.47,Pix,Entregue,4
+663,65,2023-09-18,4952.35,Pix,Entregue,5
+664,256,2023-09-23,3870.69,Transferência,Entregue,4
+665,138,2023-10-25,4735.66,Boleto,Entregue,4
+666,157,2023-08-06,5632.2,Transferência,Entregue,4
+667,266,2023-06-30,1168.34,Transferência,Entregue,2
+668,210,2023-07-08,3946.73,Cartão de Crédito,Entregue,4
+669,184,2023-02-12,1647.31,Cartão de Crédito,Entregue,3
+670,61,2023-02-06,2814.1,Pix,Entregue,3
+671,141,2023-04-08,4482.08,Transferência,Entregue,5
+672,297,2023-12-02,1378.47,Boleto,Entregue,1
+673,108,2023-08-31,1087.55,Pix,Entregue,2
+674,97,2023-08-08,1919.21,Pix,Entregue,4
+675,5,2023-09-13,2569.12,Pix,Entregue,3
+676,167,2023-10-28,669.68,Transferência,Entregue,1
+677,196,2023-04-15,5069.49,Pix,Entregue,4
+678,48,2023-03-29,840.08,Transferência,Entregue,1
+679,14,2023-04-06,3397.33,Cartão de Crédito,Entregue,2
+680,233,2023-01-30,1003.4,Boleto,Entregue,3
+681,275,2023-08-03,3350.56,Transferência,Entregue,4
+682,82,2023-11-06,5736.4,Cartão de Crédito,Entregue,5
+683,205,2023-11-06,2970.07,Cartão de Crédito,Entregue,2
+684,47,2023-05-28,3644.14,Transferência,Entregue,4
+685,235,2023-07-16,2334.53,Pix,Entregue,2
+686,276,2023-05-30,951.59,Cartão de Crédito,Entregue,1
+687,189,2023-02-09,720.12,Boleto,Entregue,1
+688,260,2023-01-23,4370.68,Cartão de Crédito,Entregue,4
+689,6,2023-05-09,567.47,Cartão de Crédito,Entregue,1
+690,281,2023-12-03,1824.45,Cartão de Crédito,Entregue,2
+691,52,2023-04-01,3563.36,Pix,Entregue,3
+692,79,2023-08-14,3311.31,Cartão de Crédito,Entregue,3
+693,200,2023-12-20,1264.82,Pix,Entregue,3
+694,123,2023-04-13,773.15,Boleto,Entregue,1
+695,33,2023-04-23,1200.33,Pix,Entregue,1
+696,166,2023-10-15,1806.05,Pix,Entregue,2
+697,166,2023-03-30,1832.21,Boleto,Entregue,1
+698,34,2023-12-03,4724.79,Transferência,Entregue,3
+699,53,2023-12-31,5194.49,Boleto,Entregue,5
+700,171,2023-03-31,3384.83,Boleto,Entregue,3
+701,258,2023-10-28,642.74,Transferência,Entregue,1
+702,125,2023-11-14,352.22,Boleto,Entregue,1
+703,193,2023-04-15,1322.17,Boleto,Entregue,1
+704,143,2023-06-12,1949.6,Pix,Entregue,1
+705,176,2023-05-05,746.4,Boleto,Entregue,2
+706,196,2023-09-24,1180.02,Boleto,Entregue,3
+707,105,2023-03-06,139.26,Transferência,Entregue,1
+708,160,2023-03-26,765.49,Transferência,Entregue,2
+709,104,2023-05-20,3935.25,Transferência,Entregue,4
+710,80,2023-09-04,1498.19,Boleto,Entregue,1
+711,284,2023-03-31,4222.29,Transferência,Entregue,3
+712,37,2023-06-20,1516.55,Pix,Entregue,2
+713,252,2023-07-27,4091.42,Cartão de Crédito,Entregue,4
+714,198,2023-10-17,2042.97,Pix,Entregue,2
+715,30,2023-11-30,2272.71,Cartão de Crédito,Entregue,4
+716,76,2023-05-14,4662.76,Transferência,Entregue,5
+717,204,2023-12-28,4266.22,Transferência,Entregue,5
+718,158,2023-07-30,1408.34,Boleto,Entregue,1
+719,204,2023-12-24,1631.96,Transferência,Entregue,3
+720,148,2023-08-09,2044.01,Cartão de Crédito,Entregue,2
+721,231,2023-10-18,1367.84,Pix,Entregue,2
+722,210,2023-08-14,5523.39,Cartão de Crédito,Entregue,5
+723,300,2023-05-01,2599.39,Cartão de Crédito,Entregue,4
+724,109,2023-09-25,1071.09,Pix,Entregue,1
+725,220,2023-06-22,4210.47,Pix,Entregue,3
+726,170,2023-02-21,365.01,Cartão de Crédito,Entregue,1
+727,63,2023-09-29,1294.14,Boleto,Entregue,3
+728,2,2023-11-23,4054.1,Transferência,Entregue,3
+729,205,2023-11-10,489.67,Cartão de Crédito,Entregue,1
+730,198,2023-05-31,5631.23,Pix,Entregue,5
+731,281,2023-08-28,3274.19,Cartão de Crédito,Entregue,2
+732,55,2023-08-11,188.66,Pix,Entregue,1
+733,244,2023-12-10,567.47,Boleto,Entregue,1
+734,295,2023-11-04,1975.55,Transferência,Entregue,1
+735,120,2023-04-25,2452.08,Boleto,Entregue,3
+736,60,2023-10-21,3553.2,Boleto,Entregue,3
+737,199,2023-08-05,3769.94,Transferência,Entregue,3
+738,162,2023-03-16,1846.48,Cartão de Crédito,Entregue,3
+739,164,2023-06-08,6525.22,Cartão de Crédito,Entregue,5
+740,171,2023-03-20,1094.68,Boleto,Entregue,2
+741,12,2023-10-08,3735.21,Pix,Entregue,4
+742,100,2023-12-25,4999.22,Boleto,Entregue,5
+743,227,2023-12-23,3808.84,Pix,Entregue,4
+744,295,2023-02-22,1879.41,Pix,Entregue,2
+745,243,2023-04-02,820.71,Transferência,Entregue,1
+746,126,2023-01-18,736.32,Boleto,Entregue,1
+747,193,2023-12-21,1017.6,Pix,Entregue,1
+748,6,2023-03-03,878.38,Boleto,Entregue,1
+749,12,2023-10-28,6497.18,Transferência,Entregue,5
+750,153,2023-10-20,2369.0,Cartão de Crédito,Entregue,2
+751,202,2023-10-12,2984.55,Cartão de Crédito,Entregue,5
+752,93,2023-11-03,419.1,Boleto,Entregue,2
+753,83,2023-02-14,6380.63,Transferência,Entregue,5
+754,1,2023-05-08,2935.13,Pix,Entregue,3
+755,268,2023-06-30,5786.45,Boleto,Entregue,5
+756,283,2023-04-21,4869.12,Boleto,Entregue,5
+757,205,2023-08-22,1895.18,Boleto,Entregue,1
+758,37,2023-11-19,2581.94,Pix,Entregue,3
+759,223,2023-07-14,77.16,Transferência,Entregue,1
+760,34,2023-06-18,1607.83,Pix,Entregue,1
+761,6,2023-02-20,4404.54,Cartão de Crédito,Entregue,4
+762,271,2023-06-28,6762.33,Boleto,Entregue,5
+763,177,2023-12-14,5548.76,Transferência,Entregue,5
+764,291,2023-05-17,1167.56,Transferência,Entregue,1
+765,94,2023-08-13,2780.59,Boleto,Entregue,3
+766,157,2023-11-22,1706.5,Cartão de Crédito,Entregue,1
+767,40,2023-05-03,1200.33,Transferência,Entregue,1
+768,6,2023-08-06,5264.8,Boleto,Entregue,5
+769,4,2023-08-06,6549.41,Pix,Entregue,5
+770,27,2023-08-05,4104.84,Pix,Entregue,4
+771,154,2023-09-05,2467.42,Cartão de Crédito,Entregue,3
+772,238,2023-11-13,4311.06,Pix,Entregue,4
+773,96,2023-07-25,2707.91,Transferência,Entregue,3
+774,64,2023-09-07,1883.31,Pix,Entregue,1
+775,154,2023-07-06,2506.92,Transferência,Entregue,4
+776,3,2023-07-03,2077.78,Pix,Entregue,2
+777,17,2023-03-24,1997.03,Boleto,Entregue,2
+778,167,2023-07-24,3447.42,Boleto,Entregue,5
+779,27,2023-12-14,2533.34,Transferência,Entregue,3
+780,127,2023-11-13,1687.13,Boleto,Entregue,2
+781,220,2023-04-12,3033.94,Transferência,Entregue,4
+782,20,2023-05-21,1406.75,Transferência,Entregue,2
+783,269,2023-06-06,3081.26,Cartão de Crédito,Entregue,2
+784,156,2023-02-26,2456.95,Cartão de Crédito,Entregue,3
+785,1,2023-01-27,4275.88,Transferência,Entregue,3
+786,187,2023-06-21,2592.26,Pix,Entregue,3
+787,271,2023-11-06,4794.38,Cartão de Crédito,Entregue,3
+788,22,2023-10-28,2440.42,Pix,Entregue,2
+789,155,2023-08-31,3625.64,Pix,Entregue,2
+790,287,2023-06-27,4373.86,Cartão de Crédito,Entregue,3
+791,86,2023-11-03,2714.28,Boleto,Entregue,3
+792,204,2023-09-11,5454.95,Boleto,Entregue,5
+793,95,2023-01-02,2026.1,Transferência,Entregue,2
+794,258,2023-12-29,5224.69,Boleto,Entregue,5
+795,150,2023-01-21,1270.82,Boleto,Entregue,2
+796,274,2023-03-01,1693.7,Pix,Entregue,1
+797,69,2023-07-29,5470.8,Cartão de Crédito,Entregue,5
+798,196,2023-12-01,2521.56,Transferência,Entregue,3
+799,80,2023-08-17,2745.41,Boleto,Entregue,2
+800,91,2023-04-07,5748.4,Boleto,Entregue,5
+801,36,2023-03-15,808.32,Cartão de Crédito,Entregue,1
+802,270,2023-03-12,1228.46,Cartão de Crédito,Entregue,1
+803,68,2023-05-08,566.97,Cartão de Crédito,Entregue,1
+804,278,2023-06-23,889.52,Boleto,Entregue,1
+805,158,2023-06-19,3965.82,Cartão de Crédito,Entregue,4
+806,23,2023-02-22,6403.7,Boleto,Entregue,5
+807,181,2023-12-02,2691.05,Cartão de Crédito,Entregue,3
+808,145,2023-07-02,479.73,Cartão de Crédito,Entregue,1
+809,78,2023-04-02,2437.72,Pix,Entregue,4
+810,54,2023-05-19,4022.1,Transferência,Entregue,4
+811,245,2023-02-04,806.2,Boleto,Entregue,1
+812,94,2023-07-17,2474.23,Pix,Entregue,3
+813,71,2023-12-01,1598.0,Boleto,Entregue,2
+814,197,2023-02-12,3762.41,Pix,Entregue,5
+815,286,2023-08-31,850.1,Pix,Entregue,2
+816,236,2023-03-15,4133.41,Boleto,Entregue,5
+817,194,2023-01-14,5050.06,Cartão de Crédito,Entregue,4
+818,76,2023-07-07,1570.57,Boleto,Entregue,2
+819,94,2023-08-29,2472.72,Cartão de Crédito,Entregue,2
+820,147,2023-02-26,2167.94,Transferência,Entregue,2
+821,217,2023-12-15,3470.07,Pix,Entregue,4
+822,48,2023-09-25,4916.65,Cartão de Crédito,Entregue,4
+823,240,2023-09-02,4004.01,Pix,Entregue,3
+824,56,2023-02-23,1607.83,Cartão de Crédito,Entregue,1
+825,34,2023-04-19,5203.99,Cartão de Crédito,Entregue,5
+826,289,2023-09-05,1307.29,Pix,Entregue,1
+827,145,2023-07-23,4793.26,Cartão de Crédito,Entregue,5
+828,258,2023-03-18,1498.19,Transferência,Entregue,1
+829,41,2023-11-17,642.74,Pix,Entregue,1
+830,230,2023-03-09,3724.55,Cartão de Crédito,Entregue,3
+831,79,2023-10-18,5263.58,Pix,Entregue,4
+832,87,2023-06-01,2587.46,Boleto,Entregue,2
+833,236,2023-05-13,5305.56,Transferência,Entregue,4
+834,210,2023-11-14,1419.78,Transferência,Entregue,2
+835,260,2023-08-19,2814.6,Transferência,Entregue,3
+836,82,2023-10-19,3296.79,Transferência,Entregue,4
+837,56,2023-02-13,1642.87,Pix,Entregue,2
+838,176,2023-11-06,4409.17,Boleto,Entregue,4
+839,110,2023-06-13,6606.24,Transferência,Entregue,5
+840,139,2023-05-10,2300.26,Transferência,Entregue,2
+841,215,2023-09-26,1895.04,Pix,Entregue,2
+842,153,2023-03-26,574.45,Transferência,Entregue,2
+843,182,2023-12-21,2163.6,Pix,Entregue,5
+844,8,2023-03-19,2451.32,Transferência,Entregue,4
+845,65,2023-11-21,6079.79,Boleto,Entregue,4
+846,194,2023-04-21,3860.48,Pix,Entregue,3
+847,158,2023-09-15,204.6,Pix,Entregue,1
+848,278,2023-08-07,4093.91,Transferência,Entregue,5
+849,196,2023-05-26,4324.37,Cartão de Crédito,Entregue,4
+850,255,2023-11-16,5580.47,Boleto,Entregue,5
+851,233,2023-10-10,3886.67,Transferência,Entregue,4
+852,4,2023-07-11,2461.93,Boleto,Entregue,2
+853,3,2023-08-01,429.53,Pix,Entregue,1
+854,172,2023-03-29,3523.08,Transferência,Entregue,5
+855,66,2023-11-22,2041.62,Cartão de Crédito,Entregue,4
+856,296,2023-07-20,2603.45,Boleto,Entregue,3
+857,15,2023-11-13,4305.67,Pix,Entregue,5
+858,100,2023-10-02,2487.81,Cartão de Crédito,Entregue,2
+859,297,2023-02-22,962.97,Boleto,Entregue,1
+860,48,2023-02-09,5060.47,Cartão de Crédito,Entregue,4
+861,108,2023-12-18,2807.77,Cartão de Crédito,Entregue,4
+862,61,2023-06-25,1388.74,Cartão de Crédito,Entregue,3
+863,275,2023-01-12,6718.06,Cartão de Crédito,Entregue,5
+864,65,2023-05-18,2850.96,Transferência,Entregue,3
+865,263,2023-07-24,1249.92,Pix,Entregue,2
+866,85,2023-04-16,5168.99,Boleto,Entregue,4
+867,291,2023-06-30,1483.79,Pix,Entregue,3
+868,204,2023-01-16,329.93,Boleto,Entregue,1
+869,38,2023-04-21,3597.04,Pix,Entregue,3
+870,110,2023-08-27,3100.8,Pix,Entregue,5
+871,39,2023-10-21,3372.62,Cartão de Crédito,Entregue,4
+872,64,2023-08-20,2653.76,Cartão de Crédito,Entregue,2
+873,237,2023-05-26,3041.86,Cartão de Crédito,Entregue,2
+874,241,2023-02-18,4990.52,Transferência,Entregue,4
+875,25,2023-07-21,3344.35,Boleto,Entregue,3
+876,54,2023-06-15,3237.36,Cartão de Crédito,Entregue,4
+877,27,2023-05-13,497.88,Transferência,Entregue,1
+878,139,2023-12-24,1916.64,Transferência,Entregue,2
+879,229,2023-12-09,1949.6,Transferência,Entregue,1
+880,144,2023-06-14,3746.44,Boleto,Entregue,4
+881,40,2023-02-08,2915.84,Boleto,Entregue,4
+882,271,2023-09-21,3995.64,Pix,Entregue,3
+883,198,2023-08-20,7506.08,Cartão de Crédito,Entregue,5
+884,76,2023-08-25,497.88,Pix,Entregue,1
+885,15,2023-09-01,5292.42,Transferência,Entregue,5
+886,258,2023-08-09,3862.56,Transferência,Entregue,5
+887,100,2023-05-31,1849.49,Transferência,Entregue,2
+888,56,2023-12-15,77.16,Pix,Entregue,1
+889,123,2023-02-03,5961.53,Pix,Entregue,5
+890,254,2023-04-16,2704.63,Cartão de Crédito,Entregue,2
+891,49,2023-04-05,5980.24,Transferência,Entregue,5
+892,73,2023-01-07,2917.73,Pix,Entregue,4
+893,243,2023-10-26,843.66,Pix,Entregue,1
+894,117,2023-09-26,5641.66,Pix,Entregue,5
+895,280,2023-05-12,3767.09,Transferência,Entregue,4
+896,58,2023-05-19,5172.38,Transferência,Entregue,5
+897,185,2023-04-16,465.12,Transferência,Entregue,1
+898,270,2023-03-31,2983.73,Pix,Entregue,3
+899,98,2023-01-22,6693.67,Transferência,Entregue,5
+900,76,2023-08-27,2734.04,Cartão de Crédito,Entregue,2
+901,151,2023-01-08,4684.93,Pix,Entregue,4
+902,1,2023-01-26,3900.08,Pix,Entregue,3
+903,74,2023-04-11,3331.15,Transferência,Entregue,4
+904,217,2023-07-24,1416.72,Pix,Entregue,1
+905,297,2023-03-13,1678.13,Pix,Entregue,2
+906,291,2023-11-18,3167.08,Pix,Entregue,4
+907,258,2023-12-17,3691.57,Cartão de Crédito,Entregue,3
+908,287,2023-01-14,3535.71,Pix,Entregue,4
+909,28,2023-07-21,1485.03,Cartão de Crédito,Entregue,2
+910,139,2023-11-29,479.73,Transferência,Entregue,1
+911,170,2023-02-01,248.04,Boleto,Entregue,1
+912,288,2023-09-11,2563.26,Transferência,Entregue,2
+913,103,2023-02-28,173.42,Boleto,Entregue,1
+914,54,2023-08-31,720.12,Transferência,Entregue,1
+915,248,2023-04-05,1604.93,Cartão de Crédito,Entregue,2
+916,222,2023-03-16,478.32,Boleto,Entregue,1
+917,244,2023-09-03,3921.01,Cartão de Crédito,Entregue,3
+918,238,2023-08-02,4757.09,Transferência,Entregue,4
+919,22,2023-07-01,1889.89,Boleto,Entregue,2
+920,179,2023-12-28,2475.43,Pix,Entregue,5
+921,156,2023-07-21,1020.99,Pix,Entregue,1
+922,67,2023-12-24,2464.69,Boleto,Entregue,3
+923,119,2023-02-19,204.6,Boleto,Entregue,1
+924,54,2023-03-31,1781.7,Transferência,Entregue,4
+925,192,2023-11-07,139.26,Boleto,Entregue,1
+926,294,2023-10-12,1248.74,Boleto,Entregue,2
+927,83,2023-08-11,3201.21,Pix,Entregue,5
+928,209,2023-10-18,5470.25,Pix,Entregue,5
+929,183,2023-11-13,5587.97,Cartão de Crédito,Entregue,5
+930,61,2023-09-13,746.4,Transferência,Entregue,2
+931,184,2023-02-04,3284.53,Pix,Entregue,2
+932,205,2023-11-13,188.21,Cartão de Crédito,Entregue,1
+933,17,2023-06-23,3138.19,Pix,Entregue,4
+934,32,2023-05-01,5447.32,Cartão de Crédito,Entregue,4
+935,283,2023-09-03,2564.99,Pix,Entregue,2
+936,221,2023-09-02,3021.88,Cartão de Crédito,Entregue,3
+937,283,2023-09-04,198.8,Boleto,Entregue,1
+938,60,2023-08-13,1167.56,Boleto,Entregue,1
+939,119,2023-02-17,2398.72,Cartão de Crédito,Entregue,5
+940,40,2023-01-30,485.78,Boleto,Entregue,2
+941,150,2023-03-08,5416.1,Pix,Entregue,5
+942,113,2023-08-16,2888.45,Pix,Entregue,3
+943,278,2023-09-15,414.73,Transferência,Entregue,1
+944,144,2023-02-10,3618.2,Cartão de Crédito,Entregue,2
+945,191,2023-03-14,1322.17,Cartão de Crédito,Entregue,1
+946,11,2023-09-13,1644.69,Cartão de Crédito,Entregue,1
+947,143,2023-11-09,5692.67,Transferência,Entregue,4
+948,273,2023-01-27,2637.06,Boleto,Entregue,3
+949,15,2023-06-24,5980.12,Transferência,Entregue,5
+950,218,2023-10-21,4277.96,Pix,Entregue,5
+951,44,2023-05-08,5864.34,Pix,Entregue,5
+952,7,2023-03-05,2382.05,Cartão de Crédito,Entregue,3
+953,239,2023-01-19,2621.21,Pix,Entregue,3
+954,283,2023-06-10,155.85,Pix,Entregue,1
+955,254,2023-03-07,737.69,Boleto,Entregue,2
+956,260,2023-08-14,3052.67,Pix,Entregue,5
+957,277,2023-01-23,5509.92,Boleto,Entregue,5
+958,167,2023-10-20,3981.88,Pix,Entregue,3
+959,209,2023-11-30,3846.89,Cartão de Crédito,Entregue,3
+960,55,2023-11-08,2707.41,Cartão de Crédito,Entregue,2
+961,77,2023-07-15,1569.62,Cartão de Crédito,Entregue,1
+962,242,2023-12-04,3486.94,Boleto,Entregue,5
+963,186,2023-04-29,4204.36,Cartão de Crédito,Entregue,4
+964,186,2023-12-01,3320.43,Boleto,Entregue,4
+965,134,2023-05-27,3341.11,Transferência,Entregue,3
+966,102,2023-04-03,2535.35,Cartão de Crédito,Entregue,4
+967,221,2023-01-13,1657.16,Boleto,Entregue,2
+968,206,2023-12-23,5784.3,Transferência,Entregue,5
+969,231,2023-08-12,2327.46,Pix,Entregue,3
+970,233,2023-07-14,1908.66,Boleto,Entregue,3
+971,153,2023-09-10,2171.57,Pix,Entregue,3
+972,92,2023-03-15,1474.38,Pix,Entregue,1
+973,51,2023-06-27,3735.95,Pix,Entregue,3
+974,133,2023-11-07,642.74,Boleto,Entregue,1
+975,15,2023-11-03,331.67,Pix,Entregue,1
+976,105,2023-05-25,4349.89,Transferência,Entregue,5
+977,222,2023-09-10,2740.7,Boleto,Entregue,3
+978,39,2023-06-17,1199.85,Cartão de Crédito,Entregue,2
+979,162,2023-01-20,5107.36,Cartão de Crédito,Entregue,4
+980,126,2023-03-12,4976.01,Transferência,Entregue,5
+981,145,2023-03-09,616.22,Boleto,Entregue,2
+982,92,2023-01-20,4179.9,Boleto,Entregue,4
+983,154,2023-04-29,2465.0,Cartão de Crédito,Entregue,3
+984,113,2023-02-27,3200.62,Cartão de Crédito,Entregue,3
+985,178,2023-12-23,3210.58,Boleto,Entregue,4
+986,210,2023-02-01,3906.31,Pix,Entregue,5
+987,249,2023-04-23,5354.92,Boleto,Entregue,3
+988,57,2023-11-11,4916.52,Cartão de Crédito,Entregue,5
+989,26,2023-09-23,1809.51,Boleto,Entregue,2
+990,149,2023-03-24,3485.37,Cartão de Crédito,Entregue,3
+991,270,2023-02-22,4930.68,Boleto,Entregue,5
+992,18,2023-05-20,1071.09,Cartão de Crédito,Entregue,1
+993,40,2023-02-07,4202.99,Pix,Entregue,5
+994,218,2023-09-20,949.59,Transferência,Entregue,1
+995,193,2023-05-30,4319.19,Boleto,Entregue,4
+996,196,2023-01-09,3846.36,Transferência,Entregue,4
+997,119,2023-08-17,3455.21,Cartão de Crédito,Entregue,3
+998,49,2023-10-15,2318.04,Transferência,Entregue,2
+999,268,2023-10-18,2260.33,Boleto,Entregue,2
+1000,19,2023-06-14,4322.76,Boleto,Entregue,5

@@ -1,0 +1,151 @@
+produto_id,nome,categoria,preco,peso_kg,fornecedor_id,estoque,tempo_processamento_dias
+1,Produto_1,Brinquedos,173.42,8.64,5,171,3
+2,Produto_2,Pet Shop,179.54,4.61,7,355,2
+3,Produto_3,Casa e Decoração,147.17,12.29,9,238,4
+4,Produto_4,Eletrônicos,429.53,12.66,10,484,1
+5,Produto_5,Saúde,773.15,0.28,6,152,4
+6,Produto_6,Livros,1085.68,22.07,10,459,2
+7,Produto_7,Brinquedos,454.45,13.13,1,199,3
+8,Produto_8,Livros,1453.88,25.23,3,318,5
+9,Produto_9,Eletrônicos,1815.72,17.8,1,42,4
+10,Produto_10,Alimentos,1736.37,5.53,5,194,3
+11,Produto_11,Casa e Decoração,920.3,10.19,7,142,4
+12,Produto_12,Esportes,1673.12,14.16,9,26,3
+13,Produto_13,Casa e Decoração,1307.29,23.46,1,386,1
+14,Produto_14,Casa e Decoração,414.73,0.71,3,122,2
+15,Produto_15,Brinquedos,1345.53,16.96,4,238,3
+16,Produto_16,Beleza,352.22,18.26,2,398,2
+17,Produto_17,Esportes,234.04,0.87,5,294,4
+18,Produto_18,Livros,1884.11,6.03,10,353,2
+19,Produto_19,Vestuário,1400.44,9.12,10,412,1
+20,Produto_20,Saúde,1569.62,10.48,7,338,3
+21,Produto_21,Vestuário,1021.8,10.3,7,421,4
+22,Produto_22,Vestuário,878.38,10.93,8,362,2
+23,Produto_23,Livros,368.75,15.7,5,315,5
+24,Produto_24,Brinquedos,940.45,24.79,10,137,3
+25,Produto_25,Casa e Decoração,1664.85,2.69,8,124,4
+26,Produto_26,Saúde,1228.46,11.43,1,253,3
+27,Produto_27,Alimentos,985.35,10.71,5,174,3
+28,Produto_28,Saúde,1408.34,8.36,1,264,2
+29,Produto_29,Vestuário,497.88,12.25,9,388,2
+30,Produto_30,Brinquedos,1298.89,14.78,1,47,3
+31,Produto_31,Casa e Decoração,820.71,7.37,10,188,4
+32,Produto_32,Pet Shop,1071.23,12.82,9,169,3
+33,Produto_33,Brinquedos,556.41,7.62,2,369,2
+34,Produto_34,Beleza,256.72,16.12,3,98,2
+35,Produto_35,Brinquedos,567.47,17.73,9,305,3
+36,Produto_36,Vestuário,1668.6,8.96,6,91,3
+37,Produto_37,Eletrônicos,1421.88,3.88,1,498,1
+38,Produto_38,Pet Shop,598.43,28.33,8,52,1
+39,Produto_39,Saúde,582.99,14.41,6,94,1
+40,Produto_40,Esportes,1883.31,14.38,2,205,4
+41,Produto_41,Vestuário,1162.5,20.62,3,76,5
+42,Produto_42,Esportes,188.66,7.52,9,391,4
+43,Produto_43,Saúde,1200.33,18.59,9,194,4
+44,Produto_44,Brinquedos,608.76,17.7,7,156,5
+45,Produto_45,Saúde,139.26,28.81,2,485,2
+46,Produto_46,Casa e Decoração,544.0,2.53,4,88,5
+47,Produto_47,Vestuário,329.93,12.31,10,240,3
+48,Produto_48,Eletrônicos,478.32,21.24,8,36,2
+49,Produto_49,Esportes,1579.9,18.79,4,217,1
+50,Produto_50,Pet Shop,465.12,4.55,5,423,2
+51,Produto_51,Vestuário,138.08,23.8,10,383,5
+52,Produto_52,Esportes,889.52,14.11,5,358,4
+53,Produto_53,Esportes,1010.93,14.86,2,306,1
+54,Produto_54,Livros,1474.38,18.15,1,46,2
+55,Produto_55,Saúde,1182.5,0.72,5,295,1
+56,Produto_56,Alimentos,951.59,19.58,5,92,5
+57,Produto_57,Livros,1276.87,14.8,2,240,3
+58,Produto_58,Livros,679.95,20.14,3,168,4
+59,Produto_59,Brinquedos,590.67,28.36,9,18,4
+60,Produto_60,Vestuário,642.74,9.77,7,442,5
+61,Produto_61,Eletrônicos,1322.17,16.32,7,27,2
+62,Produto_62,Pet Shop,736.32,22.72,8,389,1
+63,Produto_63,Casa e Decoração,548.77,4.02,5,224,4
+64,Produto_64,Vestuário,77.16,18.94,4,363,2
+65,Produto_65,Esportes,1110.66,16.61,2,115,1
+66,Produto_66,Brinquedos,1895.18,19.47,3,255,3
+67,Produto_67,Pet Shop,1416.72,12.52,8,241,2
+68,Produto_68,Brinquedos,1111.5,11.57,10,260,2
+69,Produto_69,Vestuário,566.97,23.72,7,174,5
+70,Produto_70,Esportes,1644.69,8.56,5,428,5
+71,Produto_71,Saúde,1997.83,14.74,3,228,5
+72,Produto_72,Brinquedos,703.35,16.6,9,193,4
+73,Produto_73,Beleza,1741.81,29.43,4,292,4
+74,Produto_74,Casa e Decoração,1714.91,12.38,6,381,4
+75,Produto_75,Livros,784.44,19.94,3,253,1
+76,Produto_76,Alimentos,1014.54,17.75,2,447,4
+77,Produto_77,Vestuário,1061.38,13.76,3,209,2
+78,Produto_78,Vestuário,949.59,29.08,6,319,4
+79,Produto_79,Vestuário,1706.5,25.59,9,194,3
+80,Produto_80,Brinquedos,1747.32,1.17,2,120,3
+81,Produto_81,Casa e Decoração,1498.6,13.08,2,389,1
+82,Produto_82,Brinquedos,349.4,9.05,1,23,3
+83,Produto_83,Eletrônicos,600.87,11.31,3,125,5
+84,Produto_84,Livros,1140.54,23.8,3,89,1
+85,Produto_85,Saúde,1744.26,18.63,4,254,5
+86,Produto_86,Alimentos,479.73,19.17,8,130,1
+87,Produto_87,Brinquedos,1804.39,20.36,3,37,4
+88,Produto_88,Beleza,1975.55,9.04,7,353,3
+89,Produto_89,Brinquedos,1693.7,6.06,7,436,4
+90,Produto_90,Vestuário,489.67,17.2,10,151,3
+91,Produto_91,Eletrônicos,1956.33,19.78,5,4,5
+92,Produto_92,Eletrônicos,1823.02,22.38,5,397,2
+93,Produto_93,Saúde,1607.83,6.65,4,317,3
+94,Produto_94,Alimentos,1263.93,27.11,1,158,4
+95,Produto_95,Eletrônicos,1167.56,22.0,2,465,3
+96,Produto_96,Beleza,1500.01,5.35,3,402,5
+97,Produto_97,Beleza,1071.09,27.41,3,131,4
+98,Produto_98,Esportes,1498.19,10.23,2,239,1
+99,Produto_99,Alimentos,1513.22,6.85,7,495,5
+100,Produto_100,Beleza,198.8,11.9,5,274,1
+101,Produto_101,Brinquedos,749.8,22.5,5,299,4
+102,Produto_102,Beleza,234.53,7.09,1,317,5
+103,Produto_103,Beleza,1832.21,6.72,2,325,4
+104,Produto_104,Esportes,1305.49,3.59,1,484,1
+105,Produto_105,Esportes,1991.94,3.57,4,454,5
+106,Produto_106,Alimentos,789.52,11.19,9,214,5
+107,Produto_107,Alimentos,1773.12,19.68,8,315,4
+108,Produto_108,Esportes,84.78,11.18,8,227,2
+109,Produto_109,Beleza,216.72,20.6,9,461,3
+110,Produto_110,Eletrônicos,808.32,5.78,2,485,4
+111,Produto_111,Vestuário,1332.28,19.29,10,497,1
+112,Produto_112,Eletrônicos,1577.85,7.38,3,402,5
+113,Produto_113,Casa e Decoração,155.85,22.98,4,300,2
+114,Produto_114,Casa e Decoração,670.55,4.51,10,1,3
+115,Produto_115,Alimentos,1975.3,16.25,3,56,1
+116,Produto_116,Alimentos,49.42,23.72,4,301,3
+117,Produto_117,Eletrônicos,365.01,1.67,7,269,1
+118,Produto_118,Vestuário,962.97,23.36,9,303,1
+119,Produto_119,Brinquedos,1017.6,28.37,1,372,5
+120,Produto_120,Esportes,926.92,28.92,1,245,4
+121,Produto_121,Livros,1378.47,14.76,8,37,1
+122,Produto_122,Beleza,1224.43,2.06,5,319,5
+123,Produto_123,Pet Shop,1430.06,11.49,10,271,3
+124,Produto_124,Brinquedos,1020.99,12.96,2,436,5
+125,Produto_125,Casa e Decoração,871.54,26.65,7,173,4
+126,Produto_126,Livros,843.66,2.94,7,160,3
+127,Produto_127,Beleza,1908.11,20.64,8,34,1
+128,Produto_128,Vestuário,204.6,2.99,6,415,2
+129,Produto_129,Pet Shop,138.76,28.7,9,168,1
+130,Produto_130,Livros,720.12,19.99,7,444,1
+131,Produto_131,Esportes,1208.81,10.61,10,259,2
+132,Produto_132,Alimentos,1320.34,6.8,2,179,5
+133,Produto_133,Beleza,247.47,8.43,4,413,4
+134,Produto_134,Pet Shop,1949.6,24.57,10,345,5
+135,Produto_135,Eletrônicos,1225.81,19.77,5,14,2
+136,Produto_136,Esportes,1411.34,9.34,6,179,1
+137,Produto_137,Alimentos,1742.33,17.03,7,35,2
+138,Produto_138,Eletrônicos,201.68,15.96,7,214,4
+139,Produto_139,Beleza,331.67,9.42,6,397,5
+140,Produto_140,Saúde,188.21,1.67,3,386,5
+141,Produto_141,Eletrônicos,1354.46,8.24,7,248,5
+142,Produto_142,Brinquedos,840.08,6.55,9,58,3
+143,Produto_143,Livros,239.56,20.38,10,249,5
+144,Produto_144,Esportes,109.93,11.92,10,28,1
+145,Produto_145,Casa e Decoração,616.81,6.42,3,391,3
+146,Produto_146,Esportes,669.68,0.33,7,89,2
+147,Produto_147,Livros,1074.51,6.98,9,426,3
+148,Produto_148,Vestuário,806.2,22.29,7,9,4
+149,Produto_149,Vestuário,1726.98,17.32,10,207,4
+150,Produto_150,Esportes,248.04,0.72,6,87,5

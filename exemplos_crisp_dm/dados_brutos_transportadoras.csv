@@ -1,0 +1,9 @@
+transportadora_id,nome,tempo_medio_entrega_dias,taxa_atraso,custo_por_km
+1,Transportadora_A,9,0.26,2.34
+2,Transportadora_B,3,0.16,0.71
+3,Transportadora_C,8,0.2,1.55
+4,Transportadora_D,8,0.27,1.99
+5,Transportadora_E,5,0.13,0.84
+6,Transportadora_F,10,0.21,1.56
+7,Transportadora_G,5,0.28,1.2
+8,Transportadora_H,4,0.11,0.79

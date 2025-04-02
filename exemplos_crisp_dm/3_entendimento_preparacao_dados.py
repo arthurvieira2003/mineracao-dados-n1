@@ -214,12 +214,12 @@ print(f"Pedidos: {len(df_pedidos)} registros")
 print(f"Entregas: {len(df_entregas)} registros")
 
 # Salvando os dados em CSV
-df_clientes.to_csv('exemplos_crisp_dm/dados_brutos_clientes.csv', index=False)
-df_produtos.to_csv('exemplos_crisp_dm/dados_brutos_produtos.csv', index=False)
-df_transportadoras.to_csv('exemplos_crisp_dm/dados_brutos_transportadoras.csv', index=False)
-df_regioes.to_csv('exemplos_crisp_dm/dados_brutos_regioes.csv', index=False)
-df_pedidos.to_csv('exemplos_crisp_dm/dados_brutos_pedidos.csv', index=False)
-df_entregas.to_csv('exemplos_crisp_dm/dados_brutos_entregas.csv', index=False)
+df_clientes.to_csv('dados_brutos_clientes.csv', index=False)
+df_produtos.to_csv('dados_brutos_produtos.csv', index=False)
+df_transportadoras.to_csv('dados_brutos_transportadoras.csv', index=False)
+df_regioes.to_csv('dados_brutos_regioes.csv', index=False)
+df_pedidos.to_csv('dados_brutos_pedidos.csv', index=False)
+df_entregas.to_csv('dados_brutos_entregas.csv', index=False)
 
 # ----------------------------------------------------------------------
 # ENTENDIMENTO DOS DADOS (DATA UNDERSTANDING)
@@ -274,7 +274,7 @@ plt.title('Distribuição de Entregas Atrasadas vs. No Prazo')
 plt.xticks([0, 1], ['No Prazo', 'Atrasada'])
 plt.xlabel('Status da Entrega')
 plt.ylabel('Número de Entregas')
-plt.savefig('exemplos_crisp_dm/imagens/distribuicao_atrasos.png')
+plt.savefig('imagens\\distribuicao_atrasos.png')
 
 # Relação entre atraso e avaliação
 plt.figure(figsize=(10, 6))
@@ -283,7 +283,7 @@ plt.title('Avaliação do Cliente por Status de Atraso')
 plt.xticks([0, 1], ['No Prazo', 'Atrasada'])
 plt.xlabel('Status da Entrega')
 plt.ylabel('Avaliação do Cliente (1-5)')
-plt.savefig('exemplos_crisp_dm/imagens/avaliacao_vs_atraso.png')
+plt.savefig('imagens\\avaliacao_vs_atraso.png')
 
 # ----------------------------------------------------------------------
 # PREPARAÇÃO DOS DADOS (DATA PREPARATION)
@@ -297,8 +297,12 @@ print("\n1. Criando conjunto de dados unificado para análise")
 # Unindo dados de pedidos, clientes, entregas, transportadoras e regiões
 df_analise = pd.merge(df_pedidos, df_entregas[
     ['pedido_id', 'transportadora_id', 'data_envio', 'data_entrega_prevista',
-     'data_entrega_real', 'status', 'atraso_dias', 'avaliacao_cliente']
+     'data_entrega_real', 'atraso_dias', 'avaliacao_cliente', 'status']
 ], on='pedido_id')
+
+# Imprimir as colunas para verificar
+print("Colunas após o primeiro merge:")
+print(df_analise.columns.tolist())
 
 df_analise = pd.merge(df_analise, df_clientes[
     ['cliente_id', 'regiao_id', 'cidade', 'estado']
@@ -341,7 +345,7 @@ print(valores_ausentes[valores_ausentes > 0])
 
 # Tratamento de entregas ainda não concluídas (data_entrega_real e atraso_dias são None)
 # Para fins de análise, vamos filtrar apenas entregas concluídas
-df_analise_concluidas = df_analise[df_analise['status'] == 'Entregue'].copy()
+df_analise_concluidas = df_analise[df_analise['status_y'] == 'Entregue'].copy()
 
 # 4. Engenharia de recursos (Feature Engineering)
 print("\n4. Engenharia de recursos")
@@ -378,9 +382,19 @@ colunas_numericas = ['valor_total', 'tempo_processamento', 'tempo_entrega_estima
 # Aplicando padronização (z-score)
 from sklearn.preprocessing import StandardScaler
 
+# Aplicando o scaler
 scaler = StandardScaler()
-df_analise_concluidas[colunas_numericas + '_scaled'] = \
-    scaler.fit_transform(df_analise_concluidas[colunas_numericas])
+scaled_features = scaler.fit_transform(df_analise_concluidas[colunas_numericas])
+
+# Criando um DataFrame com os valores escalados
+scaled_df = pd.DataFrame(
+    scaled_features,
+    columns=[f"{col}_scaled" for col in colunas_numericas],
+    index=df_analise_concluidas.index
+)
+
+# Concatenando com o DataFrame original
+df_analise_concluidas = pd.concat([df_analise_concluidas, scaled_df], axis=1)
 
 # 6. Codificação de variáveis categóricas
 print("\n6. Codificação de variáveis categóricas")
@@ -398,7 +412,7 @@ print("\n7. Seleção de atributos para diferentes tipos de modelagem")
 # Features para previsão de atrasos (Classificação)
 features_classificacao = [col for col in df_analise_preparado.columns 
                          if col not in ['pedido_id', 'cliente_id', 'data_pedido', 'data_envio', 
-                                        'data_entrega_prevista', 'data_entrega_real', 'status',
+                                        'data_entrega_prevista', 'data_entrega_real', 'status_x', 'status_y',
                                         'atraso_dias', 'avaliacao_cliente', 'atrasada']]
 target_classificacao = 'atrasada'
 
@@ -407,7 +421,7 @@ print(f"\nNúmero de features para classificação: {len(features_classificacao)
 # Features para previsão de tempo de entrega (Regressão)
 features_regressao = [col for col in df_analise_preparado.columns 
                       if col not in ['pedido_id', 'cliente_id', 'data_pedido', 'data_envio', 
-                                    'data_entrega_prevista', 'data_entrega_real', 'status',
+                                    'data_entrega_prevista', 'data_entrega_real', 'status_x', 'status_y',
                                     'atraso_dias', 'avaliacao_cliente', 'atrasada']]
 target_regressao = 'atraso_dias'
 
@@ -427,7 +441,7 @@ print(f"Dimensões do conjunto de treino: {X_train.shape}")
 print(f"Dimensões do conjunto de teste: {X_test.shape}")
 
 # Salvando os dados processados
-df_analise_preparado.to_csv('exemplos_crisp_dm/dados_preparados.csv', index=False)
+df_analise_preparado.to_csv('dados_preparados.csv', index=False)
 
 print("\n9. Dados preparados e salvos para a fase de modelagem")
 print("O processo de entendimento e preparação de dados está concluído.") 

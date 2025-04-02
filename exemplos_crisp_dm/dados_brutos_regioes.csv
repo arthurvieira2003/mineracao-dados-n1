@@ -1,0 +1,6 @@
+regiao_id,nome,distancia_media_km,tempo_medio_entrega_dias,taxa_congestionamento
+1,Região_A,454,4,1.9
+2,Região_B,1392,3,1.27
+3,Região_C,1336,9,1.7
+4,Região_D,1204,14,1.87
+5,Região_E,1444,11,1.96
