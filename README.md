@@ -1,5 +1,7 @@
 # Mineração de Dados - Aplicando CRISP-DM
 
+## Acadêmicos: Arthur Henrique Tscha Vieira e Rafael Rodrigues Ferreira de Andrade
+
 Este repositório contém exemplos práticos de mineração de dados usando o processo CRISP-DM (Cross Industry Standard Process for Data Mining), desenvolvidos como parte de um trabalho acadêmico.
 
 ## Sobre o Projeto
