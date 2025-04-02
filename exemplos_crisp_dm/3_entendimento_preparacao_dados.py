@@ -444,4 +444,4 @@ print(f"Dimensões do conjunto de teste: {X_test.shape}")
 df_analise_preparado.to_csv('dados_preparados.csv', index=False)
 
 print("\n9. Dados preparados e salvos para a fase de modelagem")
-print("O processo de entendimento e preparação de dados está concluído.") 
+print("O processo de entendimento e preparação de dados está concluído.")
